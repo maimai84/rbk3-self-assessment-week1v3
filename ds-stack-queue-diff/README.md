@@ -3,9 +3,11 @@
 
 ## Queue vs. Stack
 Please write your explanation below.
+
+
 stack is operation that describ that the last element in first element out (liFo) 
 stack example button back
 queue first element in first element out(fifo)
 order meat in resturant
 
-assesssment
+assesssmentt -
