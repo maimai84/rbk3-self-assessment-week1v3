@@ -4,15 +4,15 @@ var Stack = function() {
     this._end=0;
     this._length=0;
 
-    this.add = function(){
-    	this._storage.push(this._end);
+    this.add = function(value){
+    	this._storage.push(value);
     	this._end++;
     	this._length++;
 
       // write me
     };
     this.remove = function() {
-     this._storage.pop(this._end);
+     this._storage.pop();
     	this._end--;
     	this._length--;
       // write me
